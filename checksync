@@ -1,3 +1,6 @@
+# this shell script checks synchronization between 
+# the git-repository copies and the active copies
+
 diff init.vim	~/.config/nvim/init.vim
 diff zshrc		~/.zshrc 
 diff inputrc	~/.inputrc 
