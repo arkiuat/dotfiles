@@ -1,0 +1,6 @@
+diff init.vim	~/.config/nvim/init.vim
+diff zshrc		~/.zshrc 
+diff inputrc	~/.inputrc 
+diff zlogin		~/.zlogin 
+diff zshenv		~/.zshenv 
+diff gitconfig	~/.gitconfig 
