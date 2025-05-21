@@ -1,9 +1,11 @@
 # this shell script checks synchronization between 
 # the git-repository copies and the active copies
 
-diff init.vim	~/.config/nvim/init.vim
-diff zshrc		~/.zshrc 
-diff inputrc	~/.inputrc 
-diff zlogin		~/.zlogin 
-diff zshenv		~/.zshenv 
-diff gitconfig	~/.gitconfig 
+diff -q exrc		~/.exrc
+diff -q init.vim	~/.config/nvim/init.vim
+diff -q zshrc		~/.zshrc 
+diff -q inputrc	~/.inputrc 
+diff -q zlogin		~/.zlogin 
+diff -q zshenv		~/.zshenv 
+diff -q zprofile	~/.zprofile
+diff -q gitconfig	~/.gitconfig 
