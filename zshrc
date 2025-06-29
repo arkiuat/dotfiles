@@ -3,8 +3,8 @@
 setopt append_history hist_expire_dups_first hist_reduce_blanks hist_verify
 setopt interactive_comments
 export RAKUDO_LINE_EDITOR='Readline'
-export HISTSIZE=9999
-export SAVEHIST=8999
+export HISTSIZE=99999
+export SAVEHIST=89999
 export EDITOR='vi'
 export LESS='-x4'
 source ~/b/fix_path.sh
