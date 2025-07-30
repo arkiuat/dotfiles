@@ -8,3 +8,4 @@ highlight rakuComment ctermfg=Red guifg=Red
 highlight rakuVariable ctermfg=Green guifg=Green
 highlight rakuVarName ctermfg=Green guifg=Green
 highlight rakuType ctermfg=Blue guifg=Blue
+highlight rakuVarStorage ctermfg=Gray guifg=Gray
